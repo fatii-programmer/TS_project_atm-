@@ -1,6 +1,6 @@
 🏦 ATM Project:
 
-A sleek, efficient TypeScript-based Automated Teller Machine (ATM) simulation.
+A sleek efficient TypeScript-based Automated Teller Machine (ATM) simulation.
 
 ✨ Features:
 
