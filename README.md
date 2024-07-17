@@ -12,9 +12,8 @@ A sleek efficient TypeScript-based Automated Teller Machine (ATM) simulation.
 - 💳 **Eject Card:** Safely eject your card.
 
  🤝 Contributing:
-
+ 
 Contributions are welcome! Here's how you can help:
-
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/AmazingFeature`)
 3. Make your changes and commit (`git commit -m 'Add AmazingFeature'`)
